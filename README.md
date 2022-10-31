@@ -2,7 +2,6 @@
 
 - 🔭 Sou formado em front-end pela Kenzie Academy Brasil
 - 🌱 Atualmente estou estudando back-end
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Daniel-MatosC">
