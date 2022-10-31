@@ -1,6 +1,6 @@
-## Olá! Eu sou o Daniel Matos
+## Olá! Eu sou o Daniel Matos 👋
 
-- 🔭 Sou formado em front-end pela Kenzie Academy Brasil
+- 🔭 Sou desenvolvedor front-end formado pela Kenzie Academy Brasil
 - 🌱 Atualmente estou estudando back-end
 
 <div align="center">
