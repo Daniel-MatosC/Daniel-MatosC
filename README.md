@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Matos 👋
 
-- 🔭 Sou desenvolvedor front-end formado pela Kenzie Academy Brasil
-- 🌱 Atualmente estou estudando back-end
+- 🔭 Sou desenvolvedor Full Stack formado pela Kenzie Academy Brasil
+- 🌱 Atualmente estou em busca da minha primeira oportunidade de trabalho
 
 <div align="center">
   <a href="https://github.com/Daniel-MatosC">
@@ -19,6 +19,8 @@
   <img align="center" alt="Dani-Docker" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Dani-Express" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Dani-NodeJs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Dani-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Dani-DJango" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 </div>
   
 ##
