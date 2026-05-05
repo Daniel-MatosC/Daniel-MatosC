@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Daniel Matos 👋
 
 - 🔭 Sou desenvolvedor Full Stack formado pela Kenzie Academy Brasil
-- 🌱 Atualmente estou em busca da minha primeira oportunidade de trabalho
 - 📫 Contact me: ⬇️
 
 <div>
